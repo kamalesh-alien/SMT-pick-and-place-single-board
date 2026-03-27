@@ -75,10 +75,13 @@ The working of the ETS SMT MATE-660 SMT pick and place machine follows a sequent
 
 # Output
 
+
 ## Bare PCB board
+<img width="1590" height="1600" alt="image" src="https://github.com/user-attachments/assets/8134a490-0774-4439-8dbe-944154159a16" />
 
 
 ## Bare PCB board with components
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0fdd18a0-ddb1-4616-b7c7-116eeb7be168" />
 
 
 # Result
